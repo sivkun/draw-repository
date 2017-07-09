@@ -1,2 +1,2 @@
 # draw-repository
-store www.draw.io file
+store files from www.draw.io
